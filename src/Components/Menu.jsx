@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 const Menu = () => {
   return (
     <div
-      className="2xl:px-96 px-8 sm:px-12 bg-[url('./menu-bg.png')] py-2 min-h-[869px] bg-cover relative"
+      className="2xl:px-96 px-8 sm:px-12 bg-[url('/menu-bg.png')] py-2 min-h-[869px] bg-cover relative"
       id="menu"
     >
       {/* Decoration */}

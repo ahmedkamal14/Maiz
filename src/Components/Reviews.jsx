@@ -35,7 +35,7 @@ const Reviews = () => {
             </div>
           </div>
         </div>
-        <div className="vid min-h-[556px] w-full lg:w-[65%] bg-[url('./food.png')] bg-cover flex justify-center items-center">
+        <div className="vid min-h-[556px] w-full lg:w-[65%] bg-[url('/food.png')] bg-cover flex justify-center items-center">
           <img src="./play.png" alt="Play" />
         </div>
       </div>
