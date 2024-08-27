@@ -25,7 +25,7 @@ const Landing = () => {
         />
 
         {/* Text */}
-        <div className="title bg-primary/70 text-Ps text-[50px] sm:text-[65px] lg:text-mainT z-10 lg:min-w-[1300px] mt-8 leading-[60px] sm:leading-[80px] lg:leading-[120px]">
+        <div className="title bg-primary/70 text-Ps text-[50px] sm:text-[65px] lg:text-mainT z-10 lg:min-w-[950px] 2xl:min-w-[1300px] mt-8 leading-[60px] sm:leading-[80px] lg:leading-[120px]">
           <h1>
             Taste the authentic
             <br /> Saudi cuisine
